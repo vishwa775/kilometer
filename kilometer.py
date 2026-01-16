@@ -1,3 +1,3 @@
-kilometer = float(input("Enter kilometers in miles: "))
+kilometer = float(input("Enter kilometers: "))
 miles = kilometer * 0.621371
-print("kilometer in miles is:", miles) 
+print("Kilometers in miles:", miles)
